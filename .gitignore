@@ -5,6 +5,8 @@ dist
 cypress/videos
 cypress/screenshots
 
+mongodb_docker
+
 # Created by https://www.gitignore.io/api/node,macos,windows,webstorm,sublimetext,visualstudiocode
 
 ### macOS ###
