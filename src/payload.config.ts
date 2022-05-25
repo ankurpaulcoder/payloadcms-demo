@@ -6,7 +6,7 @@ import Tags from './collections/Tags';
 import Users from './collections/Users';
 
 export default buildConfig({
-  serverURL: 'http://localhost:2828',
+  serverURL: 'http://127.0.0.1:3000',
   admin: {
     user: Users.slug,
   },
